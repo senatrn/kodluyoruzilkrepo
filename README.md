@@ -9,7 +9,7 @@ git clone https://github.com/senatrn/kodluyoruzilkrepo
 
 ```
 
-## Usage
+##Usage
 
 Projeyi cloneladıktan sonra Visual Studio Code programında açınız.
 
@@ -22,7 +22,7 @@ code .
 
 ````
 
-## Contributing 
+##Contributing 
 
 Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi değiştirmek istediğinizi tartışmak için bir konu açınız.
 
